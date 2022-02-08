@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hey, Welcome to my Github Page
 
-## 👩‍💻Who am I?
+## 🧑🏻‍💻Who am I?
 I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24'.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
