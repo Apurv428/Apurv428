@@ -56,7 +56,8 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
 *CODING!!<br>CREATING!!<br>EXPLORING!!<br>DRIVING*
 
 ## 📞 Contact Me
-* Email Id: apurvsonawane28@gmail.com
-* LinkedIn : [Apurv Sonawane](www.linkedin.com/in/apurvsonawane)
-* Twitter : [@SonawaneApurv](https://twitter.com/SonawaneApurv)
-* Instagram : [@apurvstic](https://www.instagram.com/apurvstic)
+- <a href="apurvsonawane28@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="31px" height="31px"></a>
+- <a href="www.linkedin.com/in/apurvsonawane" title="LinkedIn"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" width="31px" height="31px"></a>
+-  <a href="https://twitter.com/SonawaneApurv" title="Twitter"><img src="https://img.icons8.com/office/16/000000/twitter.png" width="31px" height="31px"></a>
+-  <a href="https://www.instagram.com/apurvstic/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" width="31px" height="31px"></a>
+
