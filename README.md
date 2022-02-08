@@ -27,7 +27,11 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-323330?style=for-the-badge&logo=Web3.js&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mern&logoColor=61DAFB)
+  ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=Firebase&logoColor=61DAFB)
+  ![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=Solidity&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -45,16 +49,14 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
  <br/>
 <!-- </div> -->
 
-## 👩About Me
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on projects related to web development!
-- 💬 Ask me about react js,javascript and flask
-- ⚡ Fun fact: I love listening music
+😎About Me
+- 🤫
 
 ## 💻 Passionate about?
-*CODING!!<br>CREATING!!<br>EXPLORING!!*
+*CODING!!<br>CREATING!!<br>EXPLORING!!<br>DRIVING*
 
 ## 📞 Contact Me
 * Email Id: apurvsonawane28@gmail.com
 * LinkedIn : [Apurv Sonawane](www.linkedin.com/in/apurvsonawane)
 * Twitter : [@SonawaneApurv](https://twitter.com/SonawaneApurv)
+* Instagram : [@apurvstic](https://www.instagram.com/apurvstic)
