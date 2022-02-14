@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Heya, Welcome to my Github Page
 
 ## 🧑🏻‍💻Who am I?
-I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24'.
+I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24' <br/>
+And am also a budding self taught budding Software/Blockchain Engineer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv428&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,6 +28,7 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Web3.js](https://img.shields.io/badge/Web3.js-323330?style=for-the-badge&logo=Web3.js&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mern&logoColor=61DAFB)
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=Firebase&logoColor=61DAFB)
   ![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=Solidity&logoColor=61DAFB)
@@ -45,16 +47,16 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![Ganache](https://img.shields.io/badge/Ganache-00C7B7?style=for-the-badge&logo=ganache&logoColor=white)
   ![Truffle](https://img.shields.io/badge/Truffle-00C7B7?style=for-the-badge&logo=truffle&logoColor=white)
- 
+  
  
  <br/>
 <!-- </div> -->
 
 😎About Me
-- 🤫
+- 🤫 Much more yet to be unleased!!
 
 ## 💻 Passionate about?
-*CODING!!<br>CREATING!!<br>EXPLORING!!<br>DRIVING*
+*CREATING!!<br>EXPLORING!!<br>DRIVING!!*
 
 ## 📞 Contact Me
 - <a href="apurvsonawane28@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="31px" height="31px"></a>
