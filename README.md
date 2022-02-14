@@ -47,7 +47,9 @@ And am also a budding self taught budding Software/Blockchain Engineer.
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![Ganache](https://img.shields.io/badge/Ganache-00C7B7?style=for-the-badge&logo=ganache&logoColor=white)
   ![Truffle](https://img.shields.io/badge/Truffle-00C7B7?style=for-the-badge&logo=truffle&logoColor=white)
-  
+  ![ThirdWeb](https://img.shields.io/badge/ThirdWeb-00C7B7?style=for-the-badge&logo=thirdweb&logoColor=white)
+  ![Opensea-tests](https://img.shields.io/badge/Opensea-00C7B7?style=for-the-badge&logo=opensea&logoColor=white)
+  ![Metamask](https://img.shields.io/badge/Metamask-00C7B7?style=for-the-badge&logo=metamask&logoColor=white)
  
  <br/>
 <!-- </div> -->
