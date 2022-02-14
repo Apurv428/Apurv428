@@ -43,6 +43,9 @@ I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 2
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  ![Ganache](https://img.shields.io/badge/Ganache-00C7B7?style=for-the-badge&logo=ganache&logoColor=white)
+  ![Truffle](https://img.shields.io/badge/Truffle-00C7B7?style=for-the-badge&logo=truffle&logoColor=white)
+ 
  
  <br/>
 <!-- </div> -->
