@@ -28,6 +28,7 @@ And am also a budding self taught budding Software/Blockchain Engineer.
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Web3.js](https://img.shields.io/badge/Web3.js-323330?style=for-the-badge&logo=Web3.js&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mern&logoColor=61DAFB)
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=Firebase&logoColor=61DAFB)
