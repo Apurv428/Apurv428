@@ -2,7 +2,7 @@
 
 ## 🧑🏻‍💻Who am I?
 I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24' <br/>
-And am also a budding self taught budding Software/Blockchain Engineer.
+And am also a self taught budding Software/Blockchain Engineer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv428&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
