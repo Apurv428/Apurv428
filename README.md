@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Heya, Welcome to my Github Page
+# Heya, Welcome to my Github Page
 
 ## 🧑🏻‍💻Who am I?
 I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24' <br/>
