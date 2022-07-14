@@ -62,8 +62,8 @@ And am also a self taught budding Software/Blockchain Engineer.
 *CREATING!!<br>EXPLORING!!<br>DRIVING!!*
 
 ## 📞 Contact Me
-- <a href="apurvsonawane28@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="31px" height="31px"></a>
-- <a href="www.linkedin.com/in/apurvsonawane" title="LinkedIn"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" width="31px" height="31px"></a>
--  <a href="https://twitter.com/SonawaneApurv" title="Twitter"><img src="https://img.icons8.com/office/16/000000/twitter.png" width="31px" height="31px"></a>
+- <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apurvsonawane28@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="31px" height="31px"></a>
+- <a href="https://www.linkedin.com/in/apurvsonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanchal giri" height="30" width="40" /></a>
+-  <a href="https://twitter.com/SonawaneApurv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanchal_1810" height="30" width="40" /></a>
 -  <a href="https://www.instagram.com/apurvstic/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" width="31px" height="31px"></a>
 
