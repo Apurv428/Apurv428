@@ -2,9 +2,9 @@
 
 ## 🧑🏻‍💻Who am I?
 I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24' <br/>
-And am also a self taught budding Software/Blockchain Engineer.
+And am also a self taught budding Software Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
+![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv428&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -14,9 +14,9 @@ And am also a self taught budding Software/Blockchain Engineer.
 
 <br/>
 
-
+<!-- 
 ##  🛠Technologies and Tools
-<!-- <div align="center">  -->
+<div align="center"> 
 
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,11 +53,11 @@ And am also a self taught budding Software/Blockchain Engineer.
   ![Metamask](https://img.shields.io/badge/Metamask-00C7B7?style=for-the-badge&logo=metamask&logoColor=white)
  
  <br/>
-<!-- </div> -->
+<!-- </div>
 
 😎About Me
 - 🤫 Much more yet to be unleased!!
-
+ -->
 ## 💻 Passionate about?
 *CREATING!!<br>EXPLORING!!<br>DRIVING!!*
 
