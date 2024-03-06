@@ -61,9 +61,13 @@ And am also a self taught budding Software Engineer.
 ## 💻 Passionate about?
 *CREATING!!<br>EXPLORING!!<br>DRIVING!!*
 
-## 📞 Contact Me
-- <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apurvsonawane28@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="31px" height="31px">GMail</a>
-- <a href="https://www.linkedin.com/in/apurvsonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkeIn" height="30" width="40" />LinkeIn</a>
--  <a href="https://twitter.com/SonawaneApurv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />Twitter</a>
--  <a href="https://www.instagram.com/apurvstic/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" width="31px" height="31px">Instagram</a>
+
+<h1>Connect With Me!!!<img align="center" src="assets/Handshake.gif" height="33px" /></h1>
+<p>
+    
+<a href="https://x.com/sonawane_apurv?t=WeQZdv18B1BZCCIHWfI2lQ&s=09" target="blank"><img align="center" src="assets/twitter-6.svg" alt="Apurv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apurvsonawane/" target="blank"><img align="center" src="assets/linkedin-icon-2.svg" alt="apurvsonawane" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apurvsonawane28@gmail.com" target="blank"><img align="center" src="assets/official-gmail-icon-2020-.svg" alt="apurvsonawane" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apurvstic/" target="blank"><img align="center" src="assets/instagram-5.svg" alt="apurvstic" height="30" width="40" /></a>
+</p>
 
