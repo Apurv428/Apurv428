@@ -1,7 +1,7 @@
 # Heya, Welcome to my Github Page
 
 ## 🧑🏻‍💻Who am I?
-I am *Apurv Sonawane*, pursuing Bachelor's in Electronics Engineering at VJTI, 24' <br/>
+I am *Apurv Sonawane*, pursued Bachelor's in Electronics Engineering at VJTI, 24' <br/>
 And am also a self taught budding Software Engineer.
 
 ![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurv428&show_icons=true&theme=aura)<br>
